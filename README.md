@@ -8,7 +8,7 @@ Robert Muller - Boston College
 
 ## Lab 9: Working with Two-Dimensional Arrays
 
-This lab has two options, **one**: to write OCaml code to determine whether or not a 2D array of integers is a [Sudoku](https://sudoku.game/) solution, and **two**: to write an OCaml program to count the number of clicks on each square of a 5 x 5 grid of colored checks. The first option would be a good choice for students thinking of writing a Sudoku solver for problem set 10. The second option would be a good choice for students considering one of the graphical options such as the [Knobster](https://mazechazer.gitlab.io/knobster/) or [2048](https://play2048.co/) games for problem set 10.
+This lab has two options, **one**: to write OCaml code to determine whether or not a 2D array of integers is a [Sudoku](https://sudoku.game/) solution, and **two**: to write an OCaml program to count the number of clicks on each square of a 3 x 3 grid of colored checks. The first option would be a good choice for students thinking of writing a Sudoku solver for problem set 10. The second option would be a good choice for students considering one of the graphical options such as the [Knobster](https://mazechazer.gitlab.io/knobster/) or [2048](https://play2048.co/) games for problem set 10.
 
 #### Option 1: Sudoku Checker
 
