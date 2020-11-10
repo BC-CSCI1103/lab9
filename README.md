@@ -16,7 +16,7 @@ This problem involves completing code in the `checkSudoku/` directory. The goal 
 
 #### Option 2: Counting Clicks
 
-This problem involves extending the *model-view-update* app in the `countClicks/` directory. The existing app shows a 5x5 grid of checks with additional code that will count the number of clicks on each check. The extended application should count 5 clicks using a 2D-array of integer counters, one for each square. After 5 clicks, the image should change from the 5x5 grid to one solid color. When the user X's-out that image, the application should print out the array of counts in two dimensions. For example, given the image
+This problem involves extending the *model-view-update* app in the `countClicks/` directory. The existing app shows a 3x3 grid of checks with additional code that will count the number of clicks on each check. The extended application should count 5 clicks using a 2D-array of integer counters, one for each square. After 5 clicks, the image should change from the 3x3 grid to one solid color. When the user X's-out that image, the application should print out the array of counts in two dimensions. For example, given the image
 
  <img src="./img/checks.png" width=200> 
 
